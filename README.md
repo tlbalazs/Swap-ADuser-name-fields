@@ -1,4 +1,4 @@
-## PowerShell Script Documentation: User Name Update
+## PowerShell Script Documentation: Swap ADuser name fields
 
 This PowerShell script is designed to update the names of users in a specified Organizational Unit (OU) in Active Directory. The script performs the following actions:
 
